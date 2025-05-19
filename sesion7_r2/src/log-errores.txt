@@ -1,0 +1,16 @@
+[INFO] Aplicación iniciada correctamente.
+TODO BIEN
+[WARNING] La conexión con la base de datos es lenta.
+[ERROR] No se pudo encontrar el archivo de configuración.
+[INFO] Usuario autenticado: admin
+[TODO BIEN]
+[WARNING] El uso de memoria ha superado el 80%.
+[ERROR] Error al guardar los datos del formulario.
+[ERROR] Tiempo de espera agotado al conectar con el servidor.
+[INFO] Tarea programada ejecutada exitosamente.
+[TODO BIEN]
+[WARNING] Intento de acceso con contraseña débil.
+[TODO BIEN]
+[TODO BIEN]
+[TODO BIEN]
+[WARNING] Intento de acceso con contraseña débil.
